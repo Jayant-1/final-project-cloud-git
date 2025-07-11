@@ -9,4 +9,4 @@ Examples of behavior that contributes to a positive environment:
 - Respectful communication
 
 ## Enforcement
-Violations may be reported to the maintainers at [your email or GitHub handle].
+Violations may be reported to the maintainers at [jayantpotdar2006@gmail.com].
